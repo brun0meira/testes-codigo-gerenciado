@@ -1,4 +1,4 @@
-## Resumo Detalhado do Artigo "Passo a passo: Criar e executar testes de unidade para código gerenciado"
+## Criar e executar testes de unidade para código gerenciado"
 
 ### Tecnologia Utilizada
 - **Linguagem**: C#
